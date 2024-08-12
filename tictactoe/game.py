@@ -6,7 +6,7 @@ and enable the user to actually play a game.
 
 import random
 
-from .state import State
+from state import State
 
 
 class Game:

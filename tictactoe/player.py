@@ -6,7 +6,7 @@ Those classes are used for the actual players of a tic-tac-toe game.
 import numpy as np
 import random
 
-from .game import GameHistory
+from game import GameHistory
 
 
 class Player:
